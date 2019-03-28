@@ -27,7 +27,7 @@ client.on('guildMemberAdd',member=>{
   if(member.guild.id !== "342590736090529794") return;
 setTimeout(() => {
 
-  client.channels.get("497176831431278612").sendMessage("**#Welcome to __Venom Network__ **");
+  client.channels.get("468193494180036618").sendMessage("**Dexter**");
 },1500);
 
 });
